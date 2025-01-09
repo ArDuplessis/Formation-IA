@@ -11,9 +11,9 @@
 - ✓ Fin semaine 8 : Bases statistiques
 - ✓ Fin semaine 10 : Introduction ML
 
-## JANVIER 2025
+## FÉVRIER 2025
 
-### Semaine 1 (6-12 janvier) - Introduction Python
+### Semaine 1 (3-9 février) - Introduction Python
 #### Lundi-Vendredi :
 - **Matin ou Soir :** Python for Everybody (Coursera)
 - **Focus :**
@@ -31,7 +31,7 @@
   - Documentation du code
   - Tests basiques
 
-### Semaine 2 (13-19 janvier) - Structures Python
+### Semaine 2 (10-16 février) - Structures Python
 #### Lundi-Vendredi :
 - **Structures de contrôle :**
   - Conditions (if, elif, else)
@@ -50,7 +50,7 @@
   - Implémentation des fonctions
   - Gestion des entrées utilisateur
 
-### Semaine 3 (20-26 janvier) - Pandas Initiation
+### Semaine 3 (17-23 février) - Pandas Initiation
 #### Lundi-Vendredi :
 - **Cours Pandas Foundation sur DataCamp :**
   - Structure des DataFrames
@@ -68,7 +68,7 @@
   - Visualisation avec Pandas
   - Documentation des analyses
 
-### Semaine 4 (27 jan-2 fév) - Pandas Avancé & NumPy
+### Semaine 4 (24 fév-2 mars) - Pandas Avancé & NumPy
 #### Lundi-Vendredi :
 - **Manipulation avancée Pandas :**
   - Groupby et agrégations
@@ -84,9 +84,9 @@
   - Publication GitHub
   - Documentation détaillée
 
-## FÉVRIER 2025
+## MARS 2025
 
-### Semaine 5 (3-9 février) - Visualisation Matplotlib
+### Semaine 5 (3-9 mars) - Visualisation Matplotlib
 #### Lundi-Vendredi :
 - **Tutoriel Matplotlib :**
   - Bases des plots
@@ -104,7 +104,7 @@
   - Publication GitHub
   - Documentation visualisations
 
-### Semaine 6 (10-16 février) - Seaborn et Visualisation avancée
+### Semaine 6 (10-16 mars) - Seaborn et Visualisation avancée
 #### Lundi-Vendredi :
 - **Tutoriel Seaborn :**
   - Interface haut niveau
@@ -120,7 +120,7 @@
   - Analyse exploratoire
   - Présentation résultats
 
-### Semaine 7 (17-23 février) - Statistiques Fondamentales
+### Semaine 7 (17-23 mars) - Statistiques Fondamentales
 #### Lundi-Vendredi :
 - **Khan Academy - Statistiques descriptives :**
   - Mesures de tendance centrale
@@ -135,7 +135,7 @@
   - Tests statistiques basiques
   - Visualisation résultats
 
-### Semaine 8 (24 fév-2 mars) - Probabilités et Distributions
+### Semaine 8 (24-30 mars) - Probabilités et Distributions
 #### Lundi-Vendredi :
 - **Probabilités basiques :**
   - Concepts fondamentaux
@@ -150,9 +150,9 @@
   - Visualisation distributions
   - Documentation résultats
 
-## MARS 2025
+## AVRIL 2025
 
-### Semaine 9 (3-9 mars) - Algèbre Linéaire
+### Semaine 9 (31 mars-6 avril) - Algèbre Linéaire
 #### Lundi-Vendredi :
 - **MIT OpenCourseWare :**
   - Matrices et vecteurs
@@ -167,7 +167,7 @@
   - Visualisations
   - Documentation GitHub
 
-### Semaine 10 (10-16 mars) - Machine Learning Intro
+### Semaine 10 (7-13 avril) - Machine Learning Intro
 #### Lundi-Vendredi :
 - **Coursera ML :**
   - Régression linéaire
